@@ -5,7 +5,7 @@
 Hello World!
 ```
 
-[## Programming Language](https://pages.github.com/)
+## Programming Language
 1. C++ 
 2. Java
 3. Python
