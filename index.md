@@ -4,7 +4,7 @@
 ``` 
 Hello World!
 ```
-![Jiaxin Zhang](photo.jpeg)
+![Jiaxin Zhang](photo.jpeg =250x)
 
 ## Programming Language
 1. C++ 
